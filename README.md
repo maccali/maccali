@@ -1,6 +1,6 @@
 #### 🙋 Hello 👨‍🚀🔭
 <p align="center">
-  <img src="https://github.com/maccali/maccali/blob/master/.github/assets/logo.png" width="500"
+  <img src="https://github.com/maccali/guilhermemaccali.com/raw/master/github.png"
   alt="guilhermemaccali.com" />
 </p>
 
