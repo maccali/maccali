@@ -1,7 +1,15 @@
-#### 🙋 Hello 👨‍🚀🔭
+
 <p align="center">
   <img src="https://github.com/maccali/guilhermemaccali.com/raw/master/github.png"
   alt="guilhermemaccali.com" />
+</p>
+
+<h3 align="center">
+  <b>🙋‍♂️ Hello 👨‍🎓 </b>
+</h3>
+
+<p align="center">
+  <b>🚀🔭👓🎮🎼💻🚲🌌🍕🍝☕🌱</b>
 </p>
 
 <p align="center">
