@@ -18,7 +18,7 @@
 
 <p align="center">
   <a
-    href="https://www.guilhermemaccali.com"
+    href="https://guilhermemaccali.com"
     alt="Guilherme Maccali"
     target="blank"
   >
