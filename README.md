@@ -60,3 +60,7 @@
     <img src="https://img.shields.io/badge/-Instagram-C13584?style=flat-square&logo=Instagram&logoColor=white" />
   </a>
 </p>
+
+![github stats](https://github-readme-stats.vercel.app/api?username=maccali&show_icons=true)
+
+
