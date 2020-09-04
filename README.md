@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://github.com/maccali/guilhermemaccali.com/raw/master/github.png"
+  <img src="https://github.com/maccali/Site-Pessoal/blob/master/.github/github.png"
   alt="guilhermemaccali.com" />
 </p>
 
@@ -61,6 +61,7 @@
   </a>
 </p>
 
-![github stats](https://github-readme-stats.vercel.app/api?username=maccali&show_icons=true)
+![github stats](https://github-readme-stats.vercel.app/api?username=maccali&layout=compact&show_icons=true&title_color=637fff&icon_color=637fff)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maccali&layout=compact&show_icons=true&title_color=637fff&icon_color=637fff)
 
 
