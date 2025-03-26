@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  NextJS | PWA | Node.js | ReactJS | React Native
+  Fullstack | Javascript | TypeScript | NextJS | PWA | Node.js | ReactJS | AWS Cloud | Micro-Servises | Micro Frontends
 </p>
 
 <p align="center">
@@ -46,14 +46,7 @@
     <img src="https://img.shields.io/badge/-LinkedIn-0E76A8?style=flat-square&logo=Linkedin&logoColor=white" />
   </a>
   <a
-    href="https://www.facebook.com/guimaccali" 
-    alt="Facebook"
-    target="_blank"
-  >
-    <img src="https://img.shields.io/badge/-Facebook-3B5998?style=flat-square&logo=Facebook&logoColor=white" />
-  </a>
-  <a
-    href="https://www.instagram.com/guilherme_maccali/?hl=pt-br" 
+    href="https://www.instagram.com/guilhermemaccali/?hl=pt-br" 
     alt="Instagram"
     target="_blank"
   >
@@ -61,8 +54,5 @@
   </a>
 </p>
 
-
-![github stats](https://github-readme-stats.vercel.app/api?username=maccali&layout=compact&show_icons=true&title_color=637fff&icon_color=637fff)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maccali&layout=compact&show_icons=true&title_color=637fff&icon_color=637fff)
 
 
