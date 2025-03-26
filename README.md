@@ -46,7 +46,7 @@
     <img src="https://img.shields.io/badge/-LinkedIn-0E76A8?style=flat-square&logo=Linkedin&logoColor=white" />
   </a>
   <a
-    href="https://www.instagram.com/guilhermemaccali/?hl=pt-br" 
+    href="https://www.instagram.com/guilherme.maccali/?hl=pt-br" 
     alt="Instagram"
     target="_blank"
   >
